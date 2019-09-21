@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b15fb862-efa7-463d-aa71-6f0c828dcc6c" name="Default Changelist" comment="" />
+    <list default="true" id="b15fb862-efa7-463d-aa71-6f0c828dcc6c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Jenkisfile" beforeDir="false" afterPath="$PROJECT_DIR$/Jenkisfile" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +25,7 @@
         <entry file="file://$PROJECT_DIR$/Jenkisfile">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
-              <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+              <caret line="15" column="8" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="19" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -196,7 +198,7 @@
     <entry file="file://$PROJECT_DIR$/Jenkisfile">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+          <caret line="15" column="8" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="19" selection-end-column="9" />
         </state>
       </provider>
     </entry>
